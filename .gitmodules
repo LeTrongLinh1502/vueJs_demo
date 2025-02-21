@@ -1,3 +1,6 @@
 [submodule "world-store-it"]
 	path = world-store-it
 	url = https://github.com/LeTrongLinh1502/world_store_it.git
+[submodule "micro-frontend-app"]
+	path = micro-frontend-app
+	url = https://github.com/LeTrongLinh1502/micro_frontend_vue.git
